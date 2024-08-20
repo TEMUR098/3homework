@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 73px 63px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+footer {
+    margin: 73px 63px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+    width: 500px;
+    height: 452px;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77.45px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 73px 63px;
+}
